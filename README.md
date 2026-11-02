@@ -18,8 +18,8 @@ Parte de la suite **[OptiSuite](https://optisuite.app/velora/)** · Windows 10/1
 
 ## Descarga
 
-[**Velora-Windows.zip**](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, versión 1.1.0).
-Enlace a esta versión exacta: [Velora-1.1.0.zip](https://github.com/EnMaNueL-G/velora/releases/download/v1.1.0/Velora-1.1.0.zip).
+[**Velora-Windows.zip**](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, versión 1.2.0).
+Enlace a esta versión exacta: [Velora-1.2.0.zip](https://github.com/EnMaNueL-G/velora/releases/download/v1.2.0/Velora-1.2.0.zip).
 
 ## Requisitos
 
@@ -113,6 +113,8 @@ Para vídeo y audio de páginas web, Velora usa yt-dlp.
 
 ---
 
+**Firefox:** la carpeta `extension-firefox` del paquete trae la extensión para Firefox (instalación permanente solo en Developer Edition/Nightly; en Firefox normal como complemento temporal).
+
 **Idioma:** Velora está en español e inglés (usa el idioma de Windows; se puede cambiar en Opciones → Apariencia) y avisa cuando hay una versión nueva.
 
 ## English
@@ -124,7 +126,7 @@ on the server. It also grabs video and audio from web pages (including audio-onl
 extension for Chrome, Edge and Brave. Queues, scheduler (optional shutdown), speed limit, automatic categories, tray icon
 and clipboard monitoring. No ads, no telemetry.
 
-- **Download:** [Velora-Windows.zip](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, v1.1.0).
+- **Download:** [Velora-Windows.zip](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, v1.2.0).
 - **Requires:** [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/10.0).
 - **Install:** unzip and double-click `Instalar Velora.cmd` (no admin; installs to `%LOCALAPPDATA%\Programs\Velora`).
   The executable is unsigned, so SmartScreen may ask: "More info" → "Run anyway".
