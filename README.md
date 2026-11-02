@@ -18,8 +18,8 @@ Parte de la suite **[OptiSuite](https://optisuite.app/velora/)** · Windows 10/1
 
 ## Descarga
 
-[**Velora-Windows.zip**](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, versión 1.0.0).
-Enlace a esta versión exacta: [Velora-1.0.0.zip](https://github.com/EnMaNueL-G/velora/releases/download/v1.0.0/Velora-1.0.0.zip).
+[**Velora-Windows.zip**](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, versión 1.1.0).
+Enlace a esta versión exacta: [Velora-1.1.0.zip](https://github.com/EnMaNueL-G/velora/releases/download/v1.1.0/Velora-1.1.0.zip).
 
 ## Requisitos
 
@@ -113,6 +113,8 @@ Para vídeo y audio de páginas web, Velora usa yt-dlp.
 
 ---
 
+**Idioma:** Velora está en español e inglés (usa el idioma de Windows; se puede cambiar en Opciones → Apariencia) y avisa cuando hay una versión nueva.
+
 ## English
 
 **Velora** is a free download manager for Windows 10/11 (64-bit), fast and with its own engine. Its
@@ -122,7 +124,7 @@ on the server. It also grabs video and audio from web pages (including audio-onl
 extension for Chrome, Edge and Brave. Queues, scheduler (optional shutdown), speed limit, automatic categories, tray icon
 and clipboard monitoring. No ads, no telemetry.
 
-- **Download:** [Velora-Windows.zip](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, v1.0.0).
+- **Download:** [Velora-Windows.zip](https://github.com/EnMaNueL-G/velora/releases/latest/download/Velora-Windows.zip) (~45 MB, v1.1.0).
 - **Requires:** [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/10.0).
 - **Install:** unzip and double-click `Instalar Velora.cmd` (no admin; installs to `%LOCALAPPDATA%\Programs\Velora`).
   The executable is unsigned, so SmartScreen may ask: "More info" → "Run anyway".
@@ -132,3 +134,5 @@ and clipboard monitoring. No ads, no telemetry.
   maxed out, no download manager can beat it.
 
 Free for personal use · private source code · © 2026 OptiSuite · Enmanuel Gil.
+
+**Language:** Velora is available in English and Spanish (it follows your Windows language; change it in Options → Appearance) and tells you when a new version is out.
